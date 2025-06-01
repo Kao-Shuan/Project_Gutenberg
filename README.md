@@ -9,7 +9,7 @@
 ![我的圖片](執行截圖.png)
 
 * 執行影片連結
-[](https://youtu.be/CAVGvP1RJvg?si=GyuQ4Z8vJqSAUFim)
+[影片連結](https://youtu.be/CAVGvP1RJvg?si=GyuQ4Z8vJqSAUFim)
 
 ## 程式碼說明
 
