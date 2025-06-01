@@ -6,10 +6,10 @@
 - beautifulsoup4 4.13.4
 
 ## 成果
-![](執行過程的擷圖或說明圖片)
-...
-[影片名稱或其它標題](你的影片連結)
+![我的圖片](執行截圖.png)
 
+* 執行影片連結
+![](https://youtu.be/CAVGvP1RJvg?si=GyuQ4Z8vJqSAUFim)
 
 ## 程式碼說明
 
