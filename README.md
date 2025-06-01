@@ -7,6 +7,7 @@
 
 ## 成果
 ![我的圖片](執行截圖.png)
+![我的圖片](爬取數目截圖.png)
 
 * 執行影片連結
 [影片連結](https://youtu.be/CAVGvP1RJvg?si=GyuQ4Z8vJqSAUFim)
